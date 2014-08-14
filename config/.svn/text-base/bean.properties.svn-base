@@ -1,0 +1,14 @@
+UserEngine=com.itheima.redbaby.engineImpl.UserEngineImpl
+HomePicEngine=com.itheima.redbaby.engineImpl.HomePicImpl
+HelpEngine=com.itheima.redbaby.engineImpl.HelpEngineImpl
+PromotionEngine=com.itheima.redbaby.engineImpl.PromotionEngineImpl
+AddressEngine=com.itheima.redbaby.engineImpl.AddressEngineImpl
+AreaEngine=com.itheima.redbaby.engineImpl.AreaEngineImpl
+LogisticsEngine=com.itheima.redbaby.engineImpl.LogisticsEngineImpl
+OrderEngine=com.itheima.redbaby.engineImpl.OrderEngineImpl
+SearchEngine=com.itheima.redbaby.engineImpl.SearchEngineImpl
+CartProductEngie=com.itheima.redbaby.engineImpl.CartProductEngineImpl
+ProductDetailEngine=com.itheima.redbaby.engineImpl.ProductDetailEngineImpl
+CartProductEngine=com.itheima.redbaby.engineImpl.CartProductEngineImpl
+RecommendBrand=com.itheima.redbaby.engineImpl.RecommendBrandImpl
+ProductListEngine=com.itheima.redbaby.engineImpl.ProductListEngineImpl
