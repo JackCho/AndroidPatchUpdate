@@ -18,3 +18,6 @@ program.
 [http://blog.csdn.net/hmg25/article/details/8100896](http://blog.csdn.net/hmg25/article/details/8100896 "浅析android应用增量升级")
 
 [http://www.csee.usf.edu/~nsamteladze/projects/delta.html](http://www.csee.usf.edu/~nsamteladze/projects/delta.html "Nikolai Samteladze's Blog")
+
+微信公众账号：Android干货分享（ID：android_share）
+技术交流QQ群：318588906，欢迎大家加群，共同探讨下Android和Java技术
